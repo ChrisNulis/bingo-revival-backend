@@ -22,7 +22,8 @@ My objective is to enhance the existing codebase without altering the design or 
 4. Install dependencies pip install -r requirements.txt
 5. Run Migrations to set up database schema: python manage.py migrate
 6. Run the Development Server: python manage.py runserver
-7. The server will start and be accessible at http://localhost:8000/ or http://127.0.0.1:8000/.
+7. The server will start and be accessible at http://localhost:8000/ or http://127.0.0.1:8000/ or http://localhost:8000/api/dogs.
+
 
 *LICENSE
 ========================
